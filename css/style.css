@@ -436,3 +436,62 @@ line-height: 150px;
 .blog-more {
     margin-top: 40px;
 }
+
+
+/* contact
+==================================================*/
+
+#contact {
+    padding: 100px 0;
+    background: #f3f3f3
+}
+
+#contact-form input,
+#contact-form textarea {
+    height: 50px;
+    margin-bottom: 10px;
+    border-radius: 0;
+}
+
+#contact-form label {
+    display: block;
+    margin-bottom: .2em;
+    font-size: 13px;
+    line-height: 13px;
+    font-size: 1.3rem;
+    line-height: 1.3rem;
+    color: #000;
+}
+
+#contact-form label.error {
+    margin-top: 10px;
+    margin-bottom: 1em;
+    font-size: 12px;
+    line-height: 12px;
+    font-size: 1.2rem;
+    line-height: 1.2rem;
+    color: #D33E43;
+    margin-left: 10px
+}
+#contact .col-md-4{
+    text-align: center;
+}
+#contact i{
+    font-size: 50px;
+}
+
+
+/* footer
+==================================================*/
+
+#footer{
+    padding: 30px 0;
+}
+#footer p{
+    margin-bottom: 0;
+    text-align: center;
+}
+
+
+/* Responsive media queries
+==================================================*/
